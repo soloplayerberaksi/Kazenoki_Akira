@@ -4,7 +4,7 @@
   <pre>
     <code>pkg update && pkg upgrade -y</code>
   </pre>
-  <button onclick="navigator.clipboard.writeText('pkg update && pkg upgrade -y')">Copy</button>
+  <button onclick="navigator.clipboard.writeText('pkg update && pkg upgrade -y')"></button>
 </p>
 
 <p>
